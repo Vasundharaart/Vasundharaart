@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, I'm Vasundhara Singh Rajput</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/JXA0.mp4"/>
+
 - 🌱 I’m currently learning **JavaScript, React.js**
 
 - 💬 Ask me about **HTML, CSS, Web development, Frontend Technologies,**
